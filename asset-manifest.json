@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sanek076.github.io/movies/static/css/main.4b32d36c.css",
-    "main.js": "/sanek076.github.io/movies/static/js/main.fc0321d2.js",
-    "static/media/trailer.png": "/sanek076.github.io/movies/static/media/trailer.f9364c9a6fda4c09447b.png",
-    "static/media/warning.png": "/sanek076.github.io/movies/static/media/warning.07942557a6ea51384937.png",
-    "index.html": "/sanek076.github.io/movies/index.html",
-    "main.4b32d36c.css.map": "/sanek076.github.io/movies/static/css/main.4b32d36c.css.map",
-    "main.fc0321d2.js.map": "/sanek076.github.io/movies/static/js/main.fc0321d2.js.map"
+    "main.css": "/movies/static/css/main.4b32d36c.css",
+    "main.js": "/movies/static/js/main.f2f48534.js",
+    "static/media/trailer.png": "/movies/static/media/trailer.f9364c9a6fda4c09447b.png",
+    "static/media/warning.png": "/movies/static/media/warning.07942557a6ea51384937.png",
+    "index.html": "/movies/index.html",
+    "main.4b32d36c.css.map": "/movies/static/css/main.4b32d36c.css.map",
+    "main.f2f48534.js.map": "/movies/static/js/main.f2f48534.js.map"
   },
   "entrypoints": [
     "static/css/main.4b32d36c.css",
-    "static/js/main.fc0321d2.js"
+    "static/js/main.f2f48534.js"
   ]
 }
